@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Schedule": {
+      "commandName": "Project",
+      "commandLineArgs": "cyptoIndex"
+    }
+  }
+}
